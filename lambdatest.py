@@ -15,8 +15,8 @@ class FirstSampleTest(unittest.TestCase):
 			'LT:Options': {
 				"user": username,
 				"accessKey": access_key,
-				"build": "UnitTest-Selenium-Sample",
-				"name": "UnitTest-Selenium-Test",
+				"build": "Python-Selenium-Sample",
+				"name": "Python-Selenium-Test",
 				"platformName": "Windows 11",
 				"selenium_version": "4.0.0"
 			},
