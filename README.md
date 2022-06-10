@@ -14,7 +14,7 @@ driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
 ## Infitinite scroll
 
-If you want **to scroll to a page with infinite loading**, like social network ones, facebook etc. You can use the following code (refer to `scroll.py` for full code):
+If you want **to scroll to a page with infinite loading**, like social network ones, facebook etc. You can use the following code (refer to `lambdatest.py` for full code):
 
 ```python
 SCROLL_PAUSE_TIME = 0.5
