@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Python Selenium Scroll Tests a
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps
 
 ## Scrolling to bottom of the page
